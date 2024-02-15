@@ -1,0 +1,28 @@
+body {
+    background-color: #acedff;
+}
+header {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+#p-content {
+    display: flex;
+    column-gap: 50px;
+}
+
+#deptForm {
+    display: flex;
+    flex-direction: row;
+}
+
+#p-forms {
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    column-gap: 100px;
+}
